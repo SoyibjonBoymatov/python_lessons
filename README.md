@@ -1,2 +1,2 @@
 # python_lessons
-Lessons related to python is collected in this file
+Lessons related to python are collected in this file
